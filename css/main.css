@@ -1,9 +1,53 @@
 main.css
 <style>
 #myDIV {
-  color: blue;
-  border: 10px solid currentcolor;
+  margin: : 0;
+  
 }
+
+div{
+
+   width: 1000px;
+   margin-left: auto;
+   text-align: center;
+   margin-top: 100px;
+
+}
+
+
+h1{
+  font-size: 70px;
+  color: #333;	
+  /*background-color: #c0ff0021; */
+  text-shadow: 4px 4px 10px  #9a9a9a8c;
+
+
+
+}
+.colorgreen {
+    color: green;	
+
+
+
+
+
+}
+p{}
+img{
+   max-width: 100px;
+
+}
+
 </style>
 </head>
-<body>
+<body [
+
+       margin: 
+
+
+
+
+
+
+]
+
